@@ -5,6 +5,7 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -12,6 +13,8 @@
             <option value="$PROJECT_DIR$/ejemplo02_jpa" />
             <option value="$PROJECT_DIR$/ejemplo03_rest" />
             <option value="$PROJECT_DIR$/ejemplo03_spring" />
+            <option value="$PROJECT_DIR$/ejemplo05_autores" />
+            <option value="$PROJECT_DIR$/ejemplo05_quarkus" />
           </set>
         </option>
       </GradleProjectSettings>
